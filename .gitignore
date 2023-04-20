@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IntelliJ files
+.idea/
+
+# macOS files
+.DS_Store
+
+# Vite output
+public/
+*.map
+.sourcemaps

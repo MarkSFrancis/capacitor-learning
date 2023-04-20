@@ -1,0 +1,11 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "capacitor-learning",
+  "bundledWebRuntime": false,
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
