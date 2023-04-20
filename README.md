@@ -1,2 +1,2 @@
-# capacitor-learning
-Learning about https://capacitorjs.com/
+# Capacitor Learning
+Learning about [capacitor](https://capacitorjs.com/)
